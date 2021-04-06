@@ -1,4 +1,4 @@
-![Web & App developer](https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-122741764.jpg)
+![Web & App developer](https://github.com/matakltm-code/matakltm-code/blob/master/programming.jpg)
 
 ### Hi 👋, I'm Michael Ataklt
 #### Web & App developer
