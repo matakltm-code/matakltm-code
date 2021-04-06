@@ -1,9 +1,9 @@
 ![Web & App developer](https://github.com/matakltm-code/matakltm-code/blob/master/programming.jpg)
 
-### Hi 👋, I'm Michael Ataklt
+### Hi 👋, I'm Micheal Ataklt
 #### Web & App developer
 
-I'm Michael from Ethiopia. I really enjoy learning languages & frameworks like Angular, Laravel, Flutter, as well as work in WordPress. I also enjoy wireframes, ui, ux and design in general.
+I'm Micheal from Ethiopia. I really enjoy learning languages & frameworks like Angular, Laravel, Flutter, as well as work in WordPress. I also enjoy wireframes, ui, ux and design in general.
 
 Skills: Flutter / Angular / Ionic / Laravel / CodeIgniter / VUE JS / REACT / JS / HTML / CSS
 
