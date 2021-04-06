@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Michael Ataklt
-#### Web & App developer
 ![Web & App developer](https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-122741764.jpg)
+
+### Hi 👋, I'm Michael Ataklt
+#### Web & App developer
 
 I'm Michael from Ethiopia. I really enjoy learning languages & frameworks like Angular, Laravel, Flutter, as well as work in WordPress. I also enjoy wireframes, ui, ux and design in general.
 
