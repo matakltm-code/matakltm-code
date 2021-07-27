@@ -1,4 +1,4 @@
-![Web & App developer](https://github.com/matakltm-code/matakltm-code/blob/master/programming.jpg)
+<!-- ![Web & App developer](https://github.com/matakltm-code/matakltm-code/blob/master/programming.jpg) -->
 
 ### Hi 👋, I'm Micheal Ataklt
 #### Web & App developer
