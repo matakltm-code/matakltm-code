@@ -8,7 +8,7 @@ I'm Micheal from Ethiopia. I really enjoy learning languages & frameworks like A
 
 Skills: Flutter / Angular / Ionic / Laravel / CodeIgniter / VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Hulum-Course. 
+- 🔭 I’m currently working as Full Stack Web Developer. 
 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matakltm-code)   -->
