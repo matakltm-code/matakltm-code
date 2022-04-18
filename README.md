@@ -30,13 +30,18 @@ for all features and parameters are set in **each example request** docs
 
 # Hi :bust_in_silhouette:, I'm Micheal Ataklt [My Portfolio Website](https://micheal-ataklt.vercel.app)
 
-#### Web & App developer
-
 I'm Micheal from Ethiopia. I really enjoy learning languages & frameworks like Angular, Laravel, Flutter, as well as work in WordPress. I also enjoy wireframes, ui, ux and design in general.
 
-Skills: Flutter / Angular / Ionic / Laravel / CodeIgniter / VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working as Full Stack Web Developer. 
+| Stack | :desktop_computer: Skills |
+| --- | --- |
+| Backend | :heavy_check_mark: Laravel with Vuejs, Nextjs, Livewire(with Alipinejs) :heavy_check_mark: Nodejs, Express :heavy_check_mark: CodeIgniter  |
+| API | :heavy_check_mark: Express :heavy_check_mark: Laravel with Passpoert :heavy_check_mark: Lumen  |
+| Frontend | :heavy_check_mark: Angular :heavy_check_mark: Vuejs :heavy_check_mark: React |
+| Design | :heavy_check_mark: Tailwind :heavy_check_mark: Bootstrap |
+
+#### Web & App contrbuition graph
+
 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matakltm-code)   -->
