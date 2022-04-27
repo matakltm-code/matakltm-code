@@ -1,4 +1,22 @@
 # :sparkling_heart: Sample Public Projects
+<details><summary>Search Stackoverflow Questions - Vscode Extenstion - :white_check_mark: V0.0.3 100% Done</summary>
+<p>
+
+#### :raised_eyebrow: VsCode Extenstion for developers! [Search Stackoverflow Questions:thumbsup:](https://marketplace.visualstudio.com/items?itemName=MichealAtaklt.searchstackoverflowquestions&ssr=false#review-details)
+![Search Stackoverflow Questions](https://user-images.githubusercontent.com/65981238/165526263-2cfa73a0-543b-4e52-b6a4-ee6468411f13.png)
+
+
+:point_right: Search any question or error in official stackoverflow site.
+
+## Installation
+
+    1. install extenstion https://marketplace.visualstudio.com/items?itemName=MichealAtaklt.searchstackoverflowquestions&ssr=false#review-details
+    2. Search "Search Stackoverflow Questions" in vscode extenstion panel then install. Please refere the publisher name is "Micheal Ataklt" 
+ 
+![dino](https://user-images.githubusercontent.com/65981238/163788454-045d6664-3800-4e7c-939c-1869ab58b859.gif)
+### 👋 Thank you!
+</p>
+</details>
 <details><summary>REST API with Express Project - :white_check_mark: 100% Done</summary>
 <p>
 
