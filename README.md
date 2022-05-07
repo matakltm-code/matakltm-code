@@ -20,6 +20,7 @@
 ### 👋 Thank you!
 </p>
 </details>
+
 <details><summary>REST API with Express Project - :white_check_mark: 100% Done</summary>
 <p>
 
@@ -44,6 +45,13 @@ for all features and parameters are set in **each example request** docs
  
 ![dino](https://user-images.githubusercontent.com/65981238/163788454-045d6664-3800-4e7c-939c-1869ab58b859.gif)
 ### 👋 Thank you!
+</p>
+</details>
+<details><summary>Simple Project Collections</summary>
+<p>
+
+#### :raised_eyebrow: Vuejs Kanban Board! [View Code Repo](https://github.com/matakltm-code/vue-kanban-board)
+![vue-kanban-board](https://user-images.githubusercontent.com/65981238/167269250-e29d783f-2a6d-4f66-a0ab-05dcc7a170e1.png)
 </p>
 </details>
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=matakltm-code)  -->
