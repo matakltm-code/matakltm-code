@@ -57,10 +57,7 @@ for all features and parameters are set in **each example request** docs
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=matakltm-code)  -->
 <!-- ![Web & App developer](https://github.com/matakltm-code/matakltm-code/blob/master/programming.jpg) -->
 
-# Hi :bust_in_silhouette:, I'm Micheal Ataklt [My Portfolio Website](https://micheal-ataklt.vercel.app)
-
-I'm Micheal from Ethiopia. I really enjoy learning languages & frameworks like Angular, Laravel, Flutter, as well as work in WordPress. I also enjoy wireframes, ui, ux and design in general.
-
+## [:bust_in_silhouette: Portfolio Website](https://micheal-ataklt.vercel.app)
 
 | Stack | :desktop_computer: Skills |
 | --- | --- |
